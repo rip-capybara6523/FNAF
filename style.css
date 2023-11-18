@@ -1,0 +1,26 @@
+main{ 
+    color:red;
+}
+body{
+    background-color: black
+}
+header{
+    text-align: center;
+}
+.title-1{
+    color: green;
+}
+.title-2{
+    color: violet;
+}
+.title-3{
+    color: gold;
+}
+.title-4{
+    color: white;
+}
+.img-1{
+    width: 150px;
+    height: 150px;
+    
+}
